@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-## I'm Sankalp8080
+## I'm Sankalp
 
 I'm a passionate developer with a strong interest in software engineering, artificial intelligence, and open-source contributions. I love solving complex problems and continually seek to learn and grow in every project I take on.
 
@@ -18,7 +18,7 @@ I'm a passionate developer with a strong interest in software engineering, artif
 - Tools & Technologies: Git, Docker, Kubernetes
 
 ### 📫 How to Reach Me:
-- Email: [sankalp8080@example.com](mailto:sankalp8080@example.com)
+- Email: [sankalppanchal8080@gmail.com](mailto:sankalppanchal8080@gmail.com)
 
 ### 🎉 Fun Fact:
 I love playing chess and have won a few local tournaments!
